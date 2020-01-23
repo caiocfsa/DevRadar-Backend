@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="DevRadar - Front-End Web" title="#delicinha" src="https://github.com/caiocfsa/DevRadar-FrontEnd/blob/master/devradar.svg" width="250px" />
+    <img alt="DevRadar - Back-End" title="#delicinha" src="https://github.com/caiocfsa/DevRadar-FrontEnd/blob/master/devradar.svg" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -31,7 +31,7 @@
 
 Front-End programado em React, com integração ao banco de dados MongoDB, para realizar cadastros de usuarios (Desenvolvedores) captando sua localização e seu perfil no GitHub
 
-## **SERVIÇOS DO BACKEND**
+## **SERVIÇOS DO BACK-END**
 
 - Framework de Servidor [express](https://www.npmjs.com/package/express "express")
 - Requisições HTTPS (APIS) [Axios](https://www.npmjs.com/package/axios "Axios")
